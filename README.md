@@ -2,16 +2,6 @@
 
 Event management platform for engineering school clubs with participant registration, email communications, and certificate generation.
 
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Database Setup](#database-setup)
-- [Configuration](#configuration)
-- [Project Structure](#project-structure)
-- [Security](#security)
-
 ## ✨ Features
 
 ### For Participants
